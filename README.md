@@ -65,6 +65,6 @@ For desktops (PC and Mac) I recommend Typora (markdown). A one time fee gives yo
 
 ![Image](./47fdc74a31e03ec07b4737a05a527341.jpg) 
 
-For mobile I recommend GitJournal. It's a one time fee that syncs to your GitHub profile and lets you edit or store Markdown docs in a convenient place. I used it to write this doc !
+For mobile I recommend GitJournal. It's a one time fee that syncs to your GitHub profile and lets you edit or store Markdown docs in a convenient place. I used it to write this doc.
 
-[Image](./9ccd0ea1be22f569d6ab1a44351b595d.jpg)
+![Image](./0af6b258a53b1b9d660e08e863af8186.jpg)
