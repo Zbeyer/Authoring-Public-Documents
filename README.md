@@ -20,3 +20,16 @@ Markdown does have a few tricks like H1 (title) can be `# title` or
 Title
 ====
 ```
+
+Discord uses Markdown 
+# Hello Wold
+I am paragraph text
+
+![Image](./eb3679b8fe2518c3884ac602a0243651.jpg) 
+
+- `> block quote`
+- `**Bold**`
+- `- Unordered list`
+ect.
+
+![Image](./d430769ddc08cb1043d3ce1cb928e598.jpg)
