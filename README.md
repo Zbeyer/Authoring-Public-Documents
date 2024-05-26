@@ -33,3 +33,22 @@ I am paragraph text
 ect.
 
 ![Image](./d430769ddc08cb1043d3ce1cb928e598.jpg)
+
+Three for muti-line, one for line-block
+This is `line-block`
+```
+This is
+Multiline
+Look at my horse
+My horse is amazing...
+```
+
+![Image](./5d1a394e86c3a45d49d7e9e6bdf11aeb.jpg) 
+
+Readme files use Markdown because once you know the rules it's easy to read, easy to write, and saves easily. It has a very small file size so it loads fast.
+
+----
+
+## Licensing 
+
+When making public documents you'll want to license it under the Creative Commons license
